@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=tmrTempo_Timer	#P2#=Project1/frmMain/tmrTempo_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231022170541	#P7#=0	#P8#=-1	.
+2=#P0#=mb	#P1#=tmeTempo_Timer	#P2#=Project1/frmMain/tmeTempo_Timer	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20231022165844	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=Project1/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231022165835	#P7#=0	#P8#=-1	.
+4=#P0#=mb	#P1#=cmdStart_Click	#P2#=Project1/frmMain/cmdStart_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231022165153	#P7#=0	#P8#=-2	.
